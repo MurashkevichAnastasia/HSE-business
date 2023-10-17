@@ -1,0 +1,23 @@
+@font-face {
+  font-family: SF UI Display;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 130%;
+  src: local("SF UI Display Medium"), local("sf-ui-display-medium"),
+    url(..//sf-ui-display-medium.woff2) format("woff2"),
+    url(..//sf-ui-display-medium.woff) format("woff"),
+    url(..//sf-ui-display-medium.eot) format("eot");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: SF UI Display;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 130%;
+  src: local("SF UI Display Regular"), local("sf-ui-display-regular"),
+    url(..//sf-ui-display-regular.woff2) format("woff2"),
+    url(..//sf-ui-display-regular.woff) format("woff"),
+    url(..//sf-ui-display-regular.eot) format("eot");
+  font-display: swap;
+}
