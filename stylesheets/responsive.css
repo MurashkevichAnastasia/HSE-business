@@ -303,5 +303,15 @@
     margin-top: 0;
   }
 
+    .telegram-icon,
+  .vk-icon {
+    display: none;
+  }
+  .telegram-icon,
+  .vk-icon {
+    display: none;
+  }
+
+
   /* DO NOT TOUCH */
 }
